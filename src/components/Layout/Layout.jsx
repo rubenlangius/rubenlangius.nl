@@ -4,18 +4,16 @@ import Helmet from 'react-helmet'
 import { useThemeUI, Box, Flex } from 'theme-ui'
 import Nav from '../Nav'
 import Footer from '../Footer'
-import { useSiteMetadata } from '../../utils/hooks'
 import GlobalStyles from './GlobalStyles'
 
 const Head = () => {
-  const { title, description } = useSiteMetadata()
   const { theme } = useThemeUI()
 
   return (
-    <Helmet defaultTitle={title} titleTemplate={`%s • ${title}`}>
+    <Helmet defaultTitle="Ruben Langius" titleTemplate={`%s • Ruben Langius`}>
       <html lang="en" />
 
-      <meta name="description" content={description} />
+      <meta name="description" content="My portfolio" />
       {/* theming */}
       <meta name="theme-color" content={theme.colors.muted} />
       <meta name="apple-mobile-web-app-title" content="lowmess" />

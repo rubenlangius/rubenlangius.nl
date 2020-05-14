@@ -1,5 +1,5 @@
 const palette = {
-  orange: '#f2930d',
+  orange: '#64C4ED',
   oranges: [
     '#fdf2e1',
     '#fbe3c2',

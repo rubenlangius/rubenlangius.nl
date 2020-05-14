@@ -1,7 +1,7 @@
 {
-  "name": "lowmess",
-  "version": "3.0.0",
-  "description": "The website and portfolio of Alec Lomas",
+  "name": "Ruben Langius",
+  "version": "1.0.0",
+  "description": "The website and portfolio of Ruben Langius",
   "scripts": {
     "start": "gatsby develop",
     "build": "gatsby build",
@@ -16,12 +16,9 @@
     "frontend",
     "design"
   ],
-  "author": "Alec Lomas",
+  "author": "Alec Lomas & Ruben Langius",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/lowmess/lowmess/issues"
-  },
-  "homepage": "https://lowmess.com",
+  "homepage": "https://rubenlangius.nl",
   "dependencies": {
     "@mdx-js/mdx": "^1.5.8",
     "@mdx-js/react": "^1.5.8",

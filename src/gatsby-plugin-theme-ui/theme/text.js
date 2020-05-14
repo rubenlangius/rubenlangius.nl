@@ -14,6 +14,14 @@ export default {
     letterSpacing: '-0.02em',
   },
 
+  'site-intro-description': {
+    display: 'inline',
+    fontSize: [4, 5],
+    fontWeight: 'normal',
+    lineHeight: 'copy',
+    letterSpacing: '-0.02em',
+  },
+
   'section-heading': {
     color: 'muted-text',
     fontSize: 0,
