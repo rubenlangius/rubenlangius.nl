@@ -27,7 +27,7 @@ const IndexPage = () => {
         {/* The `Text` wrapper makes sure spaces are consistently sized */}
         <Text variant="site-intro" sx={{ display: 'contents' }}>
           <Heading as="h1" variant="site-intro" sx={{ fontWeight: 'bold' }}>
-            Hi, I&apos;m Ruben Langius, and I like to build things.
+            Hi, I&apos;m Ruben Langius and I like to build things.
           </Heading>{' '}
           <br />
           <Heading as="h2" variant="site-intro-description">
