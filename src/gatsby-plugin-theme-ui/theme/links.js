@@ -22,7 +22,7 @@ export default {
 
   ui: {
     color: 'text',
-    textDecoration: 'none',
+    textDecoration: 'underline',
 
     '&:hover': {
       color: 'primary',
