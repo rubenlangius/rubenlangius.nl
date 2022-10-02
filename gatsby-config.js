@@ -1,8 +1,9 @@
 module.exports = {
+  pathPrefix: "/",
   siteMetadata: {
-    title: 'lowmess',
-    description: `My name is Alec Lomas, and I make websites.`,
-    siteUrl: 'https://www.lowmess.com',
+    title: 'Ruben Langius',
+    description: `My name is Ruben Langius, and I make web applications.`,
+    siteUrl: 'https://www.rubenlangius.nl',
   },
   plugins: [
     // Adding various source folders to the GraphQL layer.
