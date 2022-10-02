@@ -1,5 +1,3 @@
-# lowmess.com
-
 ## Installing
 
 ```bash

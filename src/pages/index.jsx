@@ -32,7 +32,7 @@ const IndexPage = () => {
           <br />
           <Heading as="h2" variant="site-intro-description">
             Currently, I&rsquo;m helping{' '}
-            <Link href="https://belsimpel.nl">Belsimpel</Link> as a senior frontend 
+            <Link href="https://belsimpel.nl">Belsimpel</Link> as a senior web 
             developer.{' '}
           </Heading>{' '}
           <Text as="p" variant="site-intro-description">
