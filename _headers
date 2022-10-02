@@ -9,7 +9,7 @@
   Cache-Control: public, max-age=31536000, immutable
 /styles-b729c27faa6284e9ff45.js
   Cache-Control: public, max-age=31536000, immutable
-/f7c42bfb0229641195a062f6d5d9b4f8cf9407d2-f1b3ef85a60a9b78a14e.js
+/16cd6255400f138f1e17996560c9a18cccf25941-f1b3ef85a60a9b78a14e.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-pages-404-jsx-b8484170582c6b663076.js
   Cache-Control: public, max-age=31536000, immutable
@@ -17,7 +17,7 @@
   Cache-Control: public, max-age=31536000, immutable
 /component---src-pages-colophon-jsx-52d95d6925b5e05e8ff8.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-index-jsx-9bbc101473943a3ed10e.js
+/component---src-pages-index-jsx-a36d445f125924e6a3f1.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-pages-projects-jsx-898745af335780ca36db.js
   Cache-Control: public, max-age=31536000, immutable
@@ -25,179 +25,179 @@
   Cache-Control: public, max-age=31536000, immutable
 /component---src-pages-wishlist-jsx-f734b7f95ea1b20b90c7.js
   Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-blog-a-better-album-ranking-algorithm-mdx-359926b29681462fb8a7.js
+  Cache-Control: public, max-age=31536000, immutable
 /component---src-pages-blog-a-form-fitted-z-shell-index-mdx-0762286065ed686b19b1.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-pages-blog-components-mdx-secret-weapon-index-mdx-36f8979afa1e5ae26b17.js
-  Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-blog-a-better-album-ranking-algorithm-mdx-359926b29681462fb8a7.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-pages-blog-customizing-tachyons-mdx-ce3b1d6e051584aa5ea9.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-pages-blog-fetch-with-timeout-mdx-e4811f50d4d0d477200a.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-blog-no-red-squigglies-for-semicolons-mdx-56cdf504a562917a164a.js
-  Cache-Control: public, max-age=31536000, immutable
 /component---src-pages-blog-functional-first-accordions-mdx-da82cefa1f239b0c7ff5.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-blog-no-red-squigglies-for-semicolons-mdx-56cdf504a562917a164a.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-pages-blog-on-declarative-styling-mdx-8a90bdec344db0949308.js
   Cache-Control: public, max-age=31536000, immutable
-/webpack-runtime-73ea966f2b53955d3c64.js
+/webpack-runtime-7b81c931cd65ec46f5a1.js
   Cache-Control: public, max-age=31536000, immutable
 /framework-4623428d73f616ff35e4.js
   Cache-Control: public, max-age=31536000, immutable
-/app-8e1e3fe0a760ba511a48.js
+/app-88f778258abad0834b35.js
   Cache-Control: public, max-age=31536000, immutable
 /static/*
   Cache-Control: public, max-age=31536000, immutable
 /sw.js
   Cache-Control: no-cache
 /rubenlangius.nl/404/
-  Link: </rubenlangius.nl/webpack-runtime-73ea966f2b53955d3c64.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/webpack-runtime-7b81c931cd65ec46f5a1.js>; rel=preload; as=script
   Link: </rubenlangius.nl/framework-4623428d73f616ff35e4.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/app-8e1e3fe0a760ba511a48.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/app-88f778258abad0834b35.js>; rel=preload; as=script
   Link: </rubenlangius.nl/styles-b729c27faa6284e9ff45.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/f7c42bfb0229641195a062f6d5d9b4f8cf9407d2-f1b3ef85a60a9b78a14e.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/16cd6255400f138f1e17996560c9a18cccf25941-f1b3ef85a60a9b78a14e.js>; rel=preload; as=script
   Link: </rubenlangius.nl/component---src-pages-404-jsx-b8484170582c6b663076.js>; rel=preload; as=script
   Link: </rubenlangius.nl/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </rubenlangius.nl/page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
 /rubenlangius.nl/blog/
-  Link: </rubenlangius.nl/webpack-runtime-73ea966f2b53955d3c64.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/webpack-runtime-7b81c931cd65ec46f5a1.js>; rel=preload; as=script
   Link: </rubenlangius.nl/framework-4623428d73f616ff35e4.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/app-8e1e3fe0a760ba511a48.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/app-88f778258abad0834b35.js>; rel=preload; as=script
   Link: </rubenlangius.nl/styles-b729c27faa6284e9ff45.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/f7c42bfb0229641195a062f6d5d9b4f8cf9407d2-f1b3ef85a60a9b78a14e.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/16cd6255400f138f1e17996560c9a18cccf25941-f1b3ef85a60a9b78a14e.js>; rel=preload; as=script
   Link: </rubenlangius.nl/component---src-pages-blog-jsx-707d6b22dfcacfe4b084.js>; rel=preload; as=script
   Link: </rubenlangius.nl/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </rubenlangius.nl/page-data/blog/page-data.json>; rel=preload; as=fetch; crossorigin
 /rubenlangius.nl/blog/components-mdx-secret-weapon/ExampleCounter/
-  Link: </rubenlangius.nl/webpack-runtime-73ea966f2b53955d3c64.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/webpack-runtime-7b81c931cd65ec46f5a1.js>; rel=preload; as=script
   Link: </rubenlangius.nl/framework-4623428d73f616ff35e4.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/app-8e1e3fe0a760ba511a48.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/app-88f778258abad0834b35.js>; rel=preload; as=script
   Link: </rubenlangius.nl/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </rubenlangius.nl/page-data/blog/components-mdx-secret-weapon/ExampleCounter/page-data.json>; rel=preload; as=fetch; crossorigin
 /rubenlangius.nl/colophon/
-  Link: </rubenlangius.nl/webpack-runtime-73ea966f2b53955d3c64.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/webpack-runtime-7b81c931cd65ec46f5a1.js>; rel=preload; as=script
   Link: </rubenlangius.nl/framework-4623428d73f616ff35e4.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/app-8e1e3fe0a760ba511a48.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/app-88f778258abad0834b35.js>; rel=preload; as=script
   Link: </rubenlangius.nl/styles-b729c27faa6284e9ff45.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/f7c42bfb0229641195a062f6d5d9b4f8cf9407d2-f1b3ef85a60a9b78a14e.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/16cd6255400f138f1e17996560c9a18cccf25941-f1b3ef85a60a9b78a14e.js>; rel=preload; as=script
   Link: </rubenlangius.nl/component---src-pages-colophon-jsx-52d95d6925b5e05e8ff8.js>; rel=preload; as=script
   Link: </rubenlangius.nl/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </rubenlangius.nl/page-data/colophon/page-data.json>; rel=preload; as=fetch; crossorigin
 /rubenlangius.nl/
-  Link: </rubenlangius.nl/webpack-runtime-73ea966f2b53955d3c64.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/webpack-runtime-7b81c931cd65ec46f5a1.js>; rel=preload; as=script
   Link: </rubenlangius.nl/framework-4623428d73f616ff35e4.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/app-8e1e3fe0a760ba511a48.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/app-88f778258abad0834b35.js>; rel=preload; as=script
   Link: </rubenlangius.nl/styles-b729c27faa6284e9ff45.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/f7c42bfb0229641195a062f6d5d9b4f8cf9407d2-f1b3ef85a60a9b78a14e.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/component---src-pages-index-jsx-9bbc101473943a3ed10e.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/16cd6255400f138f1e17996560c9a18cccf25941-f1b3ef85a60a9b78a14e.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/component---src-pages-index-jsx-a36d445f125924e6a3f1.js>; rel=preload; as=script
   Link: </rubenlangius.nl/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </rubenlangius.nl/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
 /rubenlangius.nl/projects/
-  Link: </rubenlangius.nl/webpack-runtime-73ea966f2b53955d3c64.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/webpack-runtime-7b81c931cd65ec46f5a1.js>; rel=preload; as=script
   Link: </rubenlangius.nl/framework-4623428d73f616ff35e4.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/app-8e1e3fe0a760ba511a48.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/app-88f778258abad0834b35.js>; rel=preload; as=script
   Link: </rubenlangius.nl/styles-b729c27faa6284e9ff45.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/f7c42bfb0229641195a062f6d5d9b4f8cf9407d2-f1b3ef85a60a9b78a14e.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/16cd6255400f138f1e17996560c9a18cccf25941-f1b3ef85a60a9b78a14e.js>; rel=preload; as=script
   Link: </rubenlangius.nl/component---src-pages-projects-jsx-898745af335780ca36db.js>; rel=preload; as=script
   Link: </rubenlangius.nl/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </rubenlangius.nl/page-data/projects/page-data.json>; rel=preload; as=fetch; crossorigin
 /rubenlangius.nl/uses/
-  Link: </rubenlangius.nl/webpack-runtime-73ea966f2b53955d3c64.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/webpack-runtime-7b81c931cd65ec46f5a1.js>; rel=preload; as=script
   Link: </rubenlangius.nl/framework-4623428d73f616ff35e4.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/app-8e1e3fe0a760ba511a48.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/app-88f778258abad0834b35.js>; rel=preload; as=script
   Link: </rubenlangius.nl/styles-b729c27faa6284e9ff45.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/f7c42bfb0229641195a062f6d5d9b4f8cf9407d2-f1b3ef85a60a9b78a14e.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/16cd6255400f138f1e17996560c9a18cccf25941-f1b3ef85a60a9b78a14e.js>; rel=preload; as=script
   Link: </rubenlangius.nl/component---src-pages-uses-jsx-7349fe8320d38140771b.js>; rel=preload; as=script
   Link: </rubenlangius.nl/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </rubenlangius.nl/page-data/uses/page-data.json>; rel=preload; as=fetch; crossorigin
 /rubenlangius.nl/wishlist/
-  Link: </rubenlangius.nl/webpack-runtime-73ea966f2b53955d3c64.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/webpack-runtime-7b81c931cd65ec46f5a1.js>; rel=preload; as=script
   Link: </rubenlangius.nl/framework-4623428d73f616ff35e4.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/app-8e1e3fe0a760ba511a48.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/app-88f778258abad0834b35.js>; rel=preload; as=script
   Link: </rubenlangius.nl/styles-b729c27faa6284e9ff45.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/f7c42bfb0229641195a062f6d5d9b4f8cf9407d2-f1b3ef85a60a9b78a14e.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/16cd6255400f138f1e17996560c9a18cccf25941-f1b3ef85a60a9b78a14e.js>; rel=preload; as=script
   Link: </rubenlangius.nl/component---src-pages-wishlist-jsx-f734b7f95ea1b20b90c7.js>; rel=preload; as=script
   Link: </rubenlangius.nl/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </rubenlangius.nl/page-data/wishlist/page-data.json>; rel=preload; as=fetch; crossorigin
 /rubenlangius.nl/404.html
-  Link: </rubenlangius.nl/webpack-runtime-73ea966f2b53955d3c64.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/webpack-runtime-7b81c931cd65ec46f5a1.js>; rel=preload; as=script
   Link: </rubenlangius.nl/framework-4623428d73f616ff35e4.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/app-8e1e3fe0a760ba511a48.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/app-88f778258abad0834b35.js>; rel=preload; as=script
   Link: </rubenlangius.nl/styles-b729c27faa6284e9ff45.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/f7c42bfb0229641195a062f6d5d9b4f8cf9407d2-f1b3ef85a60a9b78a14e.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/16cd6255400f138f1e17996560c9a18cccf25941-f1b3ef85a60a9b78a14e.js>; rel=preload; as=script
   Link: </rubenlangius.nl/component---src-pages-404-jsx-b8484170582c6b663076.js>; rel=preload; as=script
   Link: </rubenlangius.nl/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </rubenlangius.nl/page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
-/rubenlangius.nl/blog/a-form-fitted-z-shell/
-  Link: </rubenlangius.nl/webpack-runtime-73ea966f2b53955d3c64.js>; rel=preload; as=script
+/rubenlangius.nl/blog/a-better-album-ranking-algorithm/
+  Link: </rubenlangius.nl/webpack-runtime-7b81c931cd65ec46f5a1.js>; rel=preload; as=script
   Link: </rubenlangius.nl/framework-4623428d73f616ff35e4.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/app-8e1e3fe0a760ba511a48.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/app-88f778258abad0834b35.js>; rel=preload; as=script
   Link: </rubenlangius.nl/styles-b729c27faa6284e9ff45.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/f7c42bfb0229641195a062f6d5d9b4f8cf9407d2-f1b3ef85a60a9b78a14e.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/16cd6255400f138f1e17996560c9a18cccf25941-f1b3ef85a60a9b78a14e.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/component---src-pages-blog-a-better-album-ranking-algorithm-mdx-359926b29681462fb8a7.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </rubenlangius.nl/page-data/blog/a-better-album-ranking-algorithm/page-data.json>; rel=preload; as=fetch; crossorigin
+/rubenlangius.nl/blog/a-form-fitted-z-shell/
+  Link: </rubenlangius.nl/webpack-runtime-7b81c931cd65ec46f5a1.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/framework-4623428d73f616ff35e4.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/app-88f778258abad0834b35.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/styles-b729c27faa6284e9ff45.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/16cd6255400f138f1e17996560c9a18cccf25941-f1b3ef85a60a9b78a14e.js>; rel=preload; as=script
   Link: </rubenlangius.nl/component---src-pages-blog-a-form-fitted-z-shell-index-mdx-0762286065ed686b19b1.js>; rel=preload; as=script
   Link: </rubenlangius.nl/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </rubenlangius.nl/page-data/blog/a-form-fitted-z-shell/page-data.json>; rel=preload; as=fetch; crossorigin
 /rubenlangius.nl/blog/components-mdx-secret-weapon/
-  Link: </rubenlangius.nl/webpack-runtime-73ea966f2b53955d3c64.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/webpack-runtime-7b81c931cd65ec46f5a1.js>; rel=preload; as=script
   Link: </rubenlangius.nl/framework-4623428d73f616ff35e4.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/app-8e1e3fe0a760ba511a48.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/app-88f778258abad0834b35.js>; rel=preload; as=script
   Link: </rubenlangius.nl/styles-b729c27faa6284e9ff45.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/f7c42bfb0229641195a062f6d5d9b4f8cf9407d2-f1b3ef85a60a9b78a14e.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/16cd6255400f138f1e17996560c9a18cccf25941-f1b3ef85a60a9b78a14e.js>; rel=preload; as=script
   Link: </rubenlangius.nl/component---src-pages-blog-components-mdx-secret-weapon-index-mdx-36f8979afa1e5ae26b17.js>; rel=preload; as=script
   Link: </rubenlangius.nl/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </rubenlangius.nl/page-data/blog/components-mdx-secret-weapon/page-data.json>; rel=preload; as=fetch; crossorigin
-/rubenlangius.nl/blog/a-better-album-ranking-algorithm/
-  Link: </rubenlangius.nl/webpack-runtime-73ea966f2b53955d3c64.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/framework-4623428d73f616ff35e4.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/app-8e1e3fe0a760ba511a48.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/styles-b729c27faa6284e9ff45.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/f7c42bfb0229641195a062f6d5d9b4f8cf9407d2-f1b3ef85a60a9b78a14e.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/component---src-pages-blog-a-better-album-ranking-algorithm-mdx-359926b29681462fb8a7.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </rubenlangius.nl/page-data/blog/a-better-album-ranking-algorithm/page-data.json>; rel=preload; as=fetch; crossorigin
 /rubenlangius.nl/blog/customizing-tachyons/
-  Link: </rubenlangius.nl/webpack-runtime-73ea966f2b53955d3c64.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/webpack-runtime-7b81c931cd65ec46f5a1.js>; rel=preload; as=script
   Link: </rubenlangius.nl/framework-4623428d73f616ff35e4.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/app-8e1e3fe0a760ba511a48.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/app-88f778258abad0834b35.js>; rel=preload; as=script
   Link: </rubenlangius.nl/styles-b729c27faa6284e9ff45.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/f7c42bfb0229641195a062f6d5d9b4f8cf9407d2-f1b3ef85a60a9b78a14e.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/16cd6255400f138f1e17996560c9a18cccf25941-f1b3ef85a60a9b78a14e.js>; rel=preload; as=script
   Link: </rubenlangius.nl/component---src-pages-blog-customizing-tachyons-mdx-ce3b1d6e051584aa5ea9.js>; rel=preload; as=script
   Link: </rubenlangius.nl/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </rubenlangius.nl/page-data/blog/customizing-tachyons/page-data.json>; rel=preload; as=fetch; crossorigin
 /rubenlangius.nl/blog/fetch-with-timeout/
-  Link: </rubenlangius.nl/webpack-runtime-73ea966f2b53955d3c64.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/webpack-runtime-7b81c931cd65ec46f5a1.js>; rel=preload; as=script
   Link: </rubenlangius.nl/framework-4623428d73f616ff35e4.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/app-8e1e3fe0a760ba511a48.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/app-88f778258abad0834b35.js>; rel=preload; as=script
   Link: </rubenlangius.nl/styles-b729c27faa6284e9ff45.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/f7c42bfb0229641195a062f6d5d9b4f8cf9407d2-f1b3ef85a60a9b78a14e.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/16cd6255400f138f1e17996560c9a18cccf25941-f1b3ef85a60a9b78a14e.js>; rel=preload; as=script
   Link: </rubenlangius.nl/component---src-pages-blog-fetch-with-timeout-mdx-e4811f50d4d0d477200a.js>; rel=preload; as=script
   Link: </rubenlangius.nl/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </rubenlangius.nl/page-data/blog/fetch-with-timeout/page-data.json>; rel=preload; as=fetch; crossorigin
-/rubenlangius.nl/blog/no-red-squigglies-for-semicolons/
-  Link: </rubenlangius.nl/webpack-runtime-73ea966f2b53955d3c64.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/framework-4623428d73f616ff35e4.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/app-8e1e3fe0a760ba511a48.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/styles-b729c27faa6284e9ff45.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/f7c42bfb0229641195a062f6d5d9b4f8cf9407d2-f1b3ef85a60a9b78a14e.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/component---src-pages-blog-no-red-squigglies-for-semicolons-mdx-56cdf504a562917a164a.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </rubenlangius.nl/page-data/blog/no-red-squigglies-for-semicolons/page-data.json>; rel=preload; as=fetch; crossorigin
 /rubenlangius.nl/blog/functional-first-accordions/
-  Link: </rubenlangius.nl/webpack-runtime-73ea966f2b53955d3c64.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/webpack-runtime-7b81c931cd65ec46f5a1.js>; rel=preload; as=script
   Link: </rubenlangius.nl/framework-4623428d73f616ff35e4.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/app-8e1e3fe0a760ba511a48.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/app-88f778258abad0834b35.js>; rel=preload; as=script
   Link: </rubenlangius.nl/styles-b729c27faa6284e9ff45.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/f7c42bfb0229641195a062f6d5d9b4f8cf9407d2-f1b3ef85a60a9b78a14e.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/16cd6255400f138f1e17996560c9a18cccf25941-f1b3ef85a60a9b78a14e.js>; rel=preload; as=script
   Link: </rubenlangius.nl/component---src-pages-blog-functional-first-accordions-mdx-da82cefa1f239b0c7ff5.js>; rel=preload; as=script
   Link: </rubenlangius.nl/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </rubenlangius.nl/page-data/blog/functional-first-accordions/page-data.json>; rel=preload; as=fetch; crossorigin
-/rubenlangius.nl/blog/on-declarative-styling/
-  Link: </rubenlangius.nl/webpack-runtime-73ea966f2b53955d3c64.js>; rel=preload; as=script
+/rubenlangius.nl/blog/no-red-squigglies-for-semicolons/
+  Link: </rubenlangius.nl/webpack-runtime-7b81c931cd65ec46f5a1.js>; rel=preload; as=script
   Link: </rubenlangius.nl/framework-4623428d73f616ff35e4.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/app-8e1e3fe0a760ba511a48.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/app-88f778258abad0834b35.js>; rel=preload; as=script
   Link: </rubenlangius.nl/styles-b729c27faa6284e9ff45.js>; rel=preload; as=script
-  Link: </rubenlangius.nl/f7c42bfb0229641195a062f6d5d9b4f8cf9407d2-f1b3ef85a60a9b78a14e.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/16cd6255400f138f1e17996560c9a18cccf25941-f1b3ef85a60a9b78a14e.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/component---src-pages-blog-no-red-squigglies-for-semicolons-mdx-56cdf504a562917a164a.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </rubenlangius.nl/page-data/blog/no-red-squigglies-for-semicolons/page-data.json>; rel=preload; as=fetch; crossorigin
+/rubenlangius.nl/blog/on-declarative-styling/
+  Link: </rubenlangius.nl/webpack-runtime-7b81c931cd65ec46f5a1.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/framework-4623428d73f616ff35e4.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/app-88f778258abad0834b35.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/styles-b729c27faa6284e9ff45.js>; rel=preload; as=script
+  Link: </rubenlangius.nl/16cd6255400f138f1e17996560c9a18cccf25941-f1b3ef85a60a9b78a14e.js>; rel=preload; as=script
   Link: </rubenlangius.nl/component---src-pages-blog-on-declarative-styling-mdx-8a90bdec344db0949308.js>; rel=preload; as=script
   Link: </rubenlangius.nl/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </rubenlangius.nl/page-data/blog/on-declarative-styling/page-data.json>; rel=preload; as=fetch; crossorigin
