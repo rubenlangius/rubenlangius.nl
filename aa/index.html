@@ -20,8 +20,13 @@
         padding: 20px;
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         border-radius: 10px;
-        max-width: 800px;
         text-align: center;
+        width: 50vw;
+        height: 50vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
       }
       h1 {
         margin-bottom: 20px;
@@ -29,6 +34,8 @@
       }
       iframe {
         border: none;
+        width: 100%;
+        height: 100%;
       }
       .button-container {
         margin-top: 20px;
@@ -51,6 +58,20 @@
       function reloadIframe() {
         document.getElementById("inlineFrameExample").src += "";
       }
+      function hideIframeElement() {
+        const iframe = document.getElementById("inlineFrameExample");
+        const iframeDocument = iframe.contentWindow || iframe.contentDocument;
+        if (iframeDocument.document) {
+          iframeDocument = iframeDocument.document;
+        }
+        iframeDocument.querySelectorAll("aside").forEach((element) => {
+          element.style.display = "none";
+        });
+      }
+      window.addEventListener("load", () => {
+        const iframe = document.getElementById("inlineFrameExample");
+        iframe.onload = hideIframeElement;
+      });
     </script>
   </head>
   <body>
@@ -60,9 +81,6 @@
       <iframe
         id="inlineFrameExample"
         title="Inline Frame Example"
-        width="300"
-        height="200"
-        style="margin: 0 auto"
         src="https://local-first-bias-detection.s3.eu-central-1.amazonaws.com/index.html"
       >
       </iframe>
