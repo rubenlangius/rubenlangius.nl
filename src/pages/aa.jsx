@@ -14,7 +14,7 @@ const UsesPage = () => (
     </Helmet>
 
     <Header>
-      <HeaderName>Wishlist</HeaderName>
+      <HeaderName>AA</HeaderName>
 
       <HeaderTitle>AA test</HeaderTitle>
     </Header>
