@@ -55,21 +55,8 @@
       }
     </style>
     <script>
-      function reloadIframe() {
-        document.getElementById("inlineFrameExample").src += "";
-      }
-      function hideIframeElement() {
-        const iframe = document.getElementById("inlineFrameExample");
-        const iframeDocument = iframe.contentWindow || iframe.contentDocument;
-        if (iframeDocument.document) {
-          iframeDocument = iframeDocument.document;
-        }
-        iframeDocument.querySelectorAll("aside").forEach((element) => {
-          element.style.display = "none";
-        });
-      }
       window.addEventListener("load", () => {
-        const iframe = document.getElementById("inlineFrameExample");
+        const iframe = document.getElementById("contentIframe");
         iframe.onload = hideIframeElement;
       });
     </script>
@@ -79,14 +66,30 @@
       <h1>Algorithm Audit Page</h1>
       <p>Welcome to the algorithm audit. Please explore the content below:</p>
       <iframe
-        id="inlineFrameExample"
+        id="contentIframe"
         title="Inline Frame Example"
         src="https://local-first-bias-detection.s3.eu-central-1.amazonaws.com/index.html"
       >
       </iframe>
-      <div class="button-container">
-        <button onclick="reloadIframe()">Reload Content</button>
-      </div>
     </div>
+
+    <script>
+      // JavaScript to adjust the iframe height based on its content
+      const iframe = document.getElementById("contentIframe");
+
+      iframe.addEventListener("load", function () {
+        // Check for cross-origin restrictions
+        try {
+          // Access iframe content height
+          iframe.style.height =
+            iframe.contentWindow.document.documentElement.scrollHeight + "px";
+        } catch (error) {
+          console.warn(
+            "Could not access iframe content due to cross-origin restrictions:",
+            error
+          );
+        }
+      });
+    </script>
   </body>
 </html>
